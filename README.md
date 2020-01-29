@@ -1,2 +1,2 @@
 # Haskell education project
-Learning haskell
+Learning haskell.
